@@ -1,6 +1,6 @@
-# Hi, I'm Ryan – Aspiring IT Professional
+# Hi, I'm Ryan – IT Professional
 
-Welcome! I’m an aspiring IT professional specializing in help desk systems, server administration, and IT project management. My focus is on building practical, efficient solutions that improve workflows and support end-users.
+Welcome! I’m an IT professional specializing in help desk systems, server administration, and IT project management. My focus is on building practical, efficient solutions that improve workflows and support end-users.
 
 ---
 
