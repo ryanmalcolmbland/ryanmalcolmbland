@@ -17,11 +17,12 @@ A comprehensive example of my work with ticketing systems, including installatio
 
 ## Skills & Expertise
 
-- Help Desk & IT Support Systems (osTicket, ServiceNow, Zendesk basics)  
-- Windows & Linux Server Administration  
-- System Configuration & Optimization  
-- Workflow Automation & Process Improvement  
-- Technical Documentation & Training Guides  
+- Help Desk & Support Tools: osTicket · Active Directory · Group Policy
+- Operating Systems: Windows 10/11 · Windows Server · macOS · Linux (basic navigation)
+- Networking Foundations: DNS · DHCP · TCP/IP · VPN · Subnets · Network Security Groups
+- Cloud & Virtualization: Azure VMs · NSGs · Resource Groups · virtualization basics
+- Troubleshooting & Administration: User account management · File/permission issues · hardware & software diagnostics
+- Documentation & Processes: Installation guides · configuration notes · workflow documentation
 
 ---
 
@@ -31,4 +32,6 @@ I am passionate about delivering IT solutions that streamline processes and enha
 
 ---
 
-Feel free to explore my projects.
+## Contact
+**LinkedIn:** https://www.linkedin.com/in/ryan-bland-57b45b392  
+**Email:** ryanmalcolmbland@gmail.com  
